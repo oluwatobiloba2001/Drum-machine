@@ -47,10 +47,6 @@ drum-machine/
 1. Clone or download this repository.
 2. Open `index.html` in your browser.
 3. Start drumming! 🥁🔥
-
-
-## 🙌 Acknowledgements
-- Sounds provided by **freeCodeCamp Drum Machine Project**
 - Inspired by **Front End Libraries Certification**
 
-Do you want me to also **write a short professional project description** you can use for **LinkedIn/GitHub portfolio**?
+Do you want me to also **write a short professional project description** you can use for **LinkedIn/Git
