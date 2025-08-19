@@ -1,4 +1,3 @@
-
 # 🥁 Drum Machine
 
 A simple **Drum Machine** built with **HTML, CSS, and JavaScript**.  
@@ -35,6 +34,8 @@ You can play sounds by clicking on the drum pads or by pressing the correspondin
    - `C` → Closed-HH
 3. The sound name will appear on the display area.
 
+---
+
 ## 📂 Project Structure
 ```
 
@@ -47,6 +48,7 @@ drum-machine/
 1. Clone or download this repository.
 2. Open `index.html` in your browser.
 3. Start drumming! 🥁🔥
-- Inspired by **Front End Libraries Certification**
 
-Do you want me to also **write a short professional project description** you can use for **LinkedIn/Git
+## 🙌 Acknowledgements
+- Sounds provided by **freeCodeCamp Drum Machine Project**
+- Inspired by **Front End Libraries Certification**
